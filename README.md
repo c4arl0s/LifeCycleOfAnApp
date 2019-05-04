@@ -128,3 +128,4 @@ Message from debugger: Terminated due to signal 9
 
 ![Captura de Pantalla 2019-05-04 a la(s) 11 45 39](https://user-images.githubusercontent.com/24994818/57182209-cc492080-6e59-11e9-8154-8a1a415abbbe.png)
 
+- applicationDidBecomeActive: and applicationWillResignActive: In general this pair of methods brackets the movement of an application from the active state to the inactive state. They are good places to enable and disable any annimations, in-app audio, or other items that deal with the app´s presentation to the user
