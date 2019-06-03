@@ -2,8 +2,8 @@
 LifeCycle
 
 - No running
-- Inactive
 - Active
+- Inactive
 - Background
 - Suspended.
 
