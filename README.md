@@ -77,7 +77,7 @@ LifeCycle
 @end
 ```
 
-# Compile and run, then you will get the following output:
+## Compile and run, then you will get the following output:
 
 ``` console
 2019-05-04 11:04:58.026352-0500 CreatingStateLab[11129:1710050] application:didFinishLaunchingWithOptions:
